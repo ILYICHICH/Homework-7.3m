@@ -1,0 +1,7 @@
+D:\PROGRAM\Homework 7.3\Homework 7.3\bin\Debug\Homework 7.3.exe.config
+D:\PROGRAM\Homework 7.3\Homework 7.3\bin\Debug\Homework 7.3.exe
+D:\PROGRAM\Homework 7.3\Homework 7.3\bin\Debug\Homework 7.3.pdb
+D:\PROGRAM\Homework 7.3\Homework 7.3\obj\Debug\Homework 7.3.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Homework 7.3\Homework 7.3\obj\Debug\Homework 7.3.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Homework 7.3\Homework 7.3\obj\Debug\Homework 7.3.exe
+D:\PROGRAM\Homework 7.3\Homework 7.3\obj\Debug\Homework 7.3.pdb
